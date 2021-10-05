@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825848399639",
+    "project_id": "simple-chating-app",
+    "storage_bucket": "simple-chating-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825848399639:android:4468f9b8c301f2bbd79952",
+        "android_client_info": {
+          "package_name": "com.sophia.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825848399639-1u8b6ospuermkipsc2mcdn8vjil61vol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2DFO2Ut7YxTHpNQ2UJLUOZJRfiR8qhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825848399639-1u8b6ospuermkipsc2mcdn8vjil61vol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
